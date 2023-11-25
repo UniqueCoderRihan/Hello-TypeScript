@@ -1,4 +1,6 @@
 
+// Dynamic Type or Any Type
+let a:any;
 
 
 // union type & explist;
