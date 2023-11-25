@@ -1,4 +1,16 @@
 
+
+
+// union type & explist;
+// let a:string;
+// let array : string[];
+// let objects : object;
+// let objectFormula:{
+//     name:string,
+//     age:number,
+// };
+
+
 // object
 let person = {
     name: "Raihan",
