@@ -1,6 +1,14 @@
 
+// function 
+let myFunc:Function;
+
+myFunc=(a:string,b:string,c:number,d?:string)=>{
+    console.log("Hello WOrld");
+}
+
+
 // Dynamic Type or Any Type
-let a:any;
+// let a:any;
 
 
 // union type & explist;
